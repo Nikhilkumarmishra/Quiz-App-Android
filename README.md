@@ -13,8 +13,13 @@
 
 ## Screenshots
 
+First Screen
 <img src="https://github.com/Nikhilkumarmishra/Quiz-App-Android/assets/87891556/389be8b0-26d0-4bec-ad9c-6766fc0b9c37" width="320" height="640">
+
+Second Screen
 <img src="https://github.com/Nikhilkumarmishra/Quiz-App-Android/assets/87891556/2add57c3-0a61-4f38-8636-f82a26c1cae2" width="320" height="640">
+
+Third Screen
 <img src="https://github.com/Nikhilkumarmishra/Quiz-App-Android/assets/87891556/36c2bd32-fffe-43ba-b138-cb8313b04379" width="320" height="640">
 
 ## Installation
@@ -73,4 +78,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Nikhil Kumar Mishra - [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-mishra/)
 
-Project Link: [GitHub]([https://github.com/your-username/QuizApp](https://github.com/Nikhilkumarmishra/Quiz-App-Android)
+Project Link: [GitHub](https://github.com/Nikhilkumarmishra/Quiz-App-Android)
